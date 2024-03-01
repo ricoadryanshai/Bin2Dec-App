@@ -1,0 +1,26 @@
+.logo {
+  will-change: filter;
+  transition: filter 0.3s;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+  cursor: pointer;
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.logo span {
+  font-weight: bold;
+  font-size: 18px;
+}
+header {
+  display: flex;
+  padding-inline: 40px;
+  padding-block: 12px;
+  border-bottom: 1px solid;
+}
