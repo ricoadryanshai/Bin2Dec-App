@@ -6,6 +6,8 @@
 
 The Binary to Decimal Converter is a straightforward project developed using React. It facilitates the conversion of binary values to their decimal counterparts. Users can input binary values of up to 8 digits, and the converter will output their equivalent decimal representation.
 
+idea: [Bin2Dec App Idea](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+
 ## Installation
 
 To utilize this project, adhere to the following steps:
